@@ -1,0 +1,43 @@
+SARAH WILSON
+Data Engineer & Analytics Specialist
+Email: sarah.wilson@datamail.com
+
+PROFESSIONAL SUMMARY
+Results-driven Data Engineer with 4 years of experience designing and implementing data pipelines, optimizing database performance, and enabling data-driven decision making.
+
+SKILLS
+- Database: PostgreSQL, MySQL, MongoDB, Redis
+- Programming: Python, SQL, PySpark, Airflow
+- Cloud: AWS (Redshift, S3, EMR), Azure Data Factory
+- Tools: Docker, Git, Jenkins, Tableau
+- Big Data: Apache Spark, Hadoop, Kafka
+
+EXPERIENCE
+Senior Data Engineer | Analytics Co
+2022 - Present (2 years)
+- Led development of real-time data processing pipeline handling 1TB+ daily
+- Reduced ETL processing time by 60% through optimization
+- Implemented data quality monitoring reducing errors by 40%
+- Mentored 2 junior engineers on best practices
+
+Data Engineer | TechCorp
+2020 - 2022 (2 years)
+- Built and maintained ETL workflows using Airflow
+- Designed data warehouse schema supporting 100+ analysts
+- Implemented data validation frameworks
+- Collaborated with data science team on ML pipelines
+
+EDUCATION
+B.S. Computer Science, Tech University (2020)
+- Focus on Database Systems and Data Mining
+- GPA: 3.8/4.0
+
+CERTIFICATIONS
+- AWS Certified Data Analytics Specialist
+- Azure Data Engineer Associate
+- Apache Spark Developer Certification
+
+PROJECTS
+- Built real-time analytics dashboard processing 100K events/sec
+- Developed automated data quality monitoring system
+- Created scalable data lake architecture on AWS

@@ -1,0 +1,25 @@
+Title: Senior Python Developer
+Company: TechCorp
+
+Description:
+We are looking for a Senior Python Developer to join our growing team. The ideal candidate will have:
+
+Required Skills and Experience:
+- 5+ years of Python development experience
+- Strong expertise in FastAPI and Django frameworks
+- Experience with AWS cloud services
+- Background in machine learning and AI technologies
+- Team leadership and mentoring experience
+- Experience with microservices architecture
+
+Responsibilities:
+- Lead development of Python-based microservices
+- Design and implement ML/AI solutions
+- Manage AWS infrastructure
+- Mentor junior developers
+- Architect scalable solutions
+
+Qualifications:
+- Bachelor's or Master's in Computer Science or related field
+- Strong problem-solving skills
+- Excellent communication abilities

@@ -1,0 +1,14 @@
+EMILY BROWN
+Data Scientist
+Email: emily.brown@testmail.com
+
+SKILLS
+- Python, R, SQL
+- Machine Learning
+- Data Analysis
+
+EXPERIENCE
+3 years in data science
+
+EDUCATION
+M.S. Data Science

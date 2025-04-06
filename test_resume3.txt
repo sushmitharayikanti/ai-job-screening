@@ -1,0 +1,34 @@
+MICHAEL CHEN
+Data Scientist & ML Engineer
+Email: michael.chen@techmail.com
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with expertise in machine learning, deep learning, and statistical analysis. Strong background in developing AI solutions for business problems.
+
+SKILLS
+- Programming: Python, R, SQL, TensorFlow, PyTorch
+- Machine Learning: Neural Networks, NLP, Computer Vision
+- Cloud: AWS (SageMaker, EC2, S3), Google Cloud
+- Tools: Docker, Git, Jupyter, scikit-learn
+- Big Data: Spark, Hadoop, Kafka
+
+EXPERIENCE
+Senior Data Scientist | AI Solutions Inc.
+2020 - Present (3 years)
+- Led team of 4 data scientists in developing ML models
+- Improved recommendation system accuracy by 45%
+- Implemented real-time prediction pipeline using Kafka
+
+ML Engineer | Tech Innovators
+2018 - 2020 (2 years)
+- Developed computer vision models for quality control
+- Reduced false positives by 60%
+
+EDUCATION
+M.S. Machine Learning | Stanford University
+B.S. Computer Science | UC Berkeley
+
+CERTIFICATIONS
+- AWS Certified Machine Learning Specialist
+- Google Cloud Professional Data Engineer
+- Deep Learning Specialization (Coursera)

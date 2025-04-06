@@ -1,0 +1,33 @@
+SARAH WILSON
+Senior Software Engineer
+
+EXPERIENCE: 6 years
+
+SKILLS:
+- Python
+- FastAPI
+- Django
+- AWS
+- Machine Learning
+- AI
+- Team Leadership
+- Microservices
+
+SUMMARY:
+Senior developer with 6 years of experience in Python development and cloud technologies. Led multiple teams in developing microservices and AI/ML solutions. Expert in AWS infrastructure and modern frameworks.
+
+WORK EXPERIENCE:
+Lead Developer | TechSolutions | 2021-Present
+- Led team of 5 developers in Python-based microservices projects
+- Implemented ML models for customer behavior analysis
+- Managed AWS infrastructure and CI/CD pipelines
+- Developed APIs using FastAPI and Django
+
+Senior Developer | AI Innovations | 2019-2021
+- Developed AI/ML solutions using Python
+- Created RESTful APIs and microservices
+- Mentored junior developers
+- Implemented cloud-native applications on AWS
+
+EDUCATION:
+M.S. Computer Science, Stanford University

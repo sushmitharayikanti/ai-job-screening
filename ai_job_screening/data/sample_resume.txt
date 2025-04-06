@@ -1,0 +1,41 @@
+JOHN SMITH
+Software Engineer
+Email: john.smith@email.com
+Phone: +1 (555) 123-4567
+
+PROFESSIONAL SUMMARY
+Experienced Software Engineer with 6 years of expertise in developing scalable applications using Python and cloud technologies. Proven track record in leading technical projects and implementing machine learning solutions.
+
+WORK EXPERIENCE
+
+Senior Software Developer | CloudTech Solutions | January 2022 - Present
+- Led development of microservices using Python and Docker
+- Implemented machine learning models for predictive analytics
+- Mentored junior developers and conducted code reviews
+- Managed AWS infrastructure for multiple projects
+
+Software Engineer | DataInnovate | March 2019 - December 2021
+- Developed backend services using Python and SQL
+- Implemented agile methodologies and CI/CD pipelines
+- Created RESTful APIs using FastAPI and Django
+- Worked on AI-powered data analysis tools
+
+Junior Software Developer | TechStart Inc | June 2017 - February 2019
+- Built web applications using JavaScript and Python
+- Maintained and optimized SQL databases
+- Collaborated in an agile development environment
+
+EDUCATION
+Bachelor of Science in Computer Science
+Stanford University, 2017
+
+SKILLS
+- Programming: Python, JavaScript, SQL
+- Technologies: AWS, Docker, Kubernetes
+- Frameworks: FastAPI, Django, React
+- Methodologies: Agile, Scrum
+- Other: Machine Learning, AI, Problem Solving
+
+CERTIFICATIONS
+- AWS Certified Developer
+- Professional Scrum Master I

@@ -1,0 +1,42 @@
+DAVID PARK
+Backend Software Engineer
+Email: david.park@techmail.com
+
+PROFESSIONAL SUMMARY
+Backend developer with 3 years of experience building scalable web services and APIs. Passionate about clean code and system design.
+
+SKILLS
+- Languages: Python, JavaScript, SQL
+- Frameworks: Django, Flask, FastAPI
+- Databases: PostgreSQL, MongoDB
+- Tools: Docker, Git, Jenkins
+- Cloud: AWS (EC2, RDS, Lambda)
+
+EXPERIENCE
+Senior Backend Developer | TechStart Inc
+2023 - Present (1 year)
+- Developed RESTful APIs serving 1M+ requests daily
+- Reduced API response time by 40% through caching
+- Implemented CI/CD pipeline using Jenkins
+- Mentored junior developers on best practices
+
+Backend Developer | CodeCraft
+2021 - 2023 (2 years)
+- Built microservices using Python and FastAPI
+- Designed and optimized database schemas
+- Integrated third-party APIs and payment systems
+- Implemented automated testing with 90% coverage
+
+EDUCATION
+B.S. Computer Science, Tech State University (2021)
+- Focus on Software Engineering
+- Minor in Database Systems
+
+PROJECTS
+- Built scalable authentication service
+- Developed real-time notification system
+- Created automated deployment pipeline
+
+CERTIFICATIONS
+- AWS Certified Developer
+- MongoDB Certified Developer

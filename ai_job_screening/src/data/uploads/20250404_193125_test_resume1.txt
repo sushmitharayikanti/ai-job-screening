@@ -1,0 +1,14 @@
+JOHN SMITH
+Software Developer
+Email: john.smith@testmail.com
+
+SKILLS
+- Python, JavaScript, React
+- Docker, AWS
+- SQL, MongoDB
+
+EXPERIENCE
+5 years of software development
+
+EDUCATION
+B.S. Computer Science
